@@ -1,1 +1,9 @@
-print('heyy!')
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/deividcomsono/Obsidian/refs/heads/main/Library.lua"))()
+local Tabs = {
+    Main = Window:AddTab("Main", "user"),
+    ["UI Settings"] = Window:AddTab("UI Settings", "settings"),
+}
+local Tabs = {
+    Main = Window:AddTab("asd", "ad"),
+    ["UI Settings"] = Window:AddTab("UI Settings", "settings"),
+}
