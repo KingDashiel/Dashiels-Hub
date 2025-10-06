@@ -1,8 +1,8 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/deividcomsono/Obsidian/refs/heads/main/Library.lua"))()
 local Window = Library:CreateWindow({
-    Title = "mspaint",
+    Title = "Dashiel's Hub",
     Footer = "version: example",
-    Icon = 95816097006870,
+    Icon = 140565326934453,
     NotifySide = "Right",
 })
 local Tabs = {
