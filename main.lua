@@ -11,4 +11,5 @@ local Tabs = {
 }
 
 Library:Unload()
+wait(1)
 print('unloaded!')
